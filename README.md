@@ -1,23 +1,23 @@
-# 📚 Estudos: Use a Cabeça C# - O'Reilly
+﻿# ðŸ“š Estudos: Use a CabeÃ§a C# - O'Reilly
 
-Repositório com projetos práticos do livro **"Use a Cabeça C#"** (4ª Edição).
+RepositÃ³rio com projetos prÃ¡ticos do livro **"Use a CabeÃ§a C#"** (4Âª EdiÃ§Ã£o).
 
-## 🎯 Objetivo
+## ðŸŽ¯ Objetivo
 
-Este repositório documenta minha jornada de aprendizado em C# e .NET, contendo todos os projetos práticos desenvolvidos durante o estudo do livro.
+Este repositÃ³rio documenta minha jornada de aprendizado em C# e .NET, contendo todos os projetos prÃ¡ticos desenvolvidos durante o estudo do livro.
 
-## 📖 Progresso dos Capítulos
+## ðŸ“– Progresso dos CapÃ­tulos
 
-### ✅ Capítulo 1 - Jogo da Memória (MatchGame)
-**Status:** Concluído | [📁 Ver Projeto](./Cap01-MatchGame)
+### âœ… CapÃ­tulo 1 - Jogo da MemÃ³ria (MatchGame)
+**Status:** ConcluÃ­do | [ðŸ“ Ver Projeto](./Cap01-MatchGame)
 
 **Conceitos Aprendidos:**
 - WPF (Windows Presentation Foundation)
 - Grid Layout com RowDefinitions e ColumnDefinitions
 - Event Handlers (MouseDown events)
-- Manipulação de Collections (List<T>)
-- Random e lógica de embaralhamento
-- DispatcherTimer para cronômetro
+- ManipulaÃ§Ã£o de Collections (List<T>)
+- Random e lÃ³gica de embaralhamento
+- DispatcherTimer para cronÃ´metro
 
 **Tecnologias:**
 - .NET 8
@@ -25,82 +25,82 @@ Este repositório documenta minha jornada de aprendizado em C# e .NET, contendo 
 - XAML
 
 **Desafios Resolvidos:**
-- ✅ Correção de `ArgumentOutOfRangeException` ao iterar sobre TextBlocks
-- ✅ Layout responsivo com Grid de 4x5 + linha extra para timer
-- ✅ Lógica de matching de pares
+- âœ… CorreÃ§Ã£o de `ArgumentOutOfRangeException` ao iterar sobre TextBlocks
+- âœ… Layout responsivo com Grid de 4x5 + linha extra para timer
+- âœ… LÃ³gica de matching de pares
 
 ---
 
-### 🔄 Capítulo 2 - [Em Breve]
-**Status:** Aguardando início
+### ðŸ”„ CapÃ­tulo 2 - [Em Breve]
+**Status:** Aguardando inÃ­cio
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **.NET 8** - Framework principal
-- **C# 12** - Linguagem de programação
-- **WPF** - Interface gráfica desktop
+- **C# 12** - Linguagem de programaÃ§Ã£o
+- **WPF** - Interface grÃ¡fica desktop
 - **Visual Studio 2026** - IDE de desenvolvimento
-- **Git & GitHub** - Controle de versão
+- **Git & GitHub** - Controle de versÃ£o
 
-## 📚 Referência
+## ðŸ“š ReferÃªncia
 
-**Livro:** Use a Cabeça C# - 4ª Edição  
+**Livro:** Use a CabeÃ§a C# - 4Âª EdiÃ§Ã£o  
 **Editora:** O'Reilly Media  
 **Autores:** Andrew Stellman, Jennifer Greene
 
-## 🚀 Como Usar Este Repositório
+## ðŸš€ Como Usar Este RepositÃ³rio
 
-### Clonar o repositório completo:
+### Clonar o repositÃ³rio completo:
 ```bash
 git clone https://github.com/STDante-0101/OREILLY.git
 cd OREILLY
 ```
 
-### Abrir um projeto específico:
+### Abrir um projeto especÃ­fico:
 ```bash
 cd Cap01-MatchGame
 start MatchGame.sln
 ```
 
-### Ver um checkpoint específico (tags):
+### Ver um checkpoint especÃ­fico (tags):
 ```bash
 git tag                          # Listar todas as tags
-git checkout capitulo-01-complete # Voltar ao estado do capítulo 1
+git checkout capitulo-01-complete # Voltar ao estado do capÃ­tulo 1
 ```
 
-## 📝 Estrutura do Repositório
+## ðŸ“ Estrutura do RepositÃ³rio
 
 ```
 OREILLY/
-├── README.md                    # Este arquivo
-├── .gitignore                   # Arquivos ignorados pelo Git
-├── Cap01-MatchGame/             # Capítulo 1
-│   ├── MatchGame.sln
-│   ├── MatchGame/
-│   └── README.md
-├── Cap02-ProximoProjeto/        # Capítulo 2 (futuro)
-│   └── ...
-└── CapXX-OutroProjeto/          # Outros capítulos
+â”œâ”€â”€ README.md                    # Este arquivo
+â”œâ”€â”€ .gitignore                   # Arquivos ignorados pelo Git
+â”œâ”€â”€ Cap01-MatchGame/             # CapÃ­tulo 1
+â”‚   â”œâ”€â”€ MatchGame.sln
+â”‚   â”œâ”€â”€ MatchGame/
+â”‚   â””â”€â”€ README.md
+â”œâ”€â”€ Cap02-ProximoProjeto/        # CapÃ­tulo 2 (futuro)
+â”‚   â””â”€â”€ ...
+â””â”€â”€ CapXX-OutroProjeto/          # Outros capÃ­tulos
 ```
 
-## 🎓 Aprendizados Principais
+## ðŸŽ“ Aprendizados Principais
 
-- **Estruturação de projetos WPF**
-- **Organização de código C#**
-- **Padrões de design em aplicações desktop**
-- **Controle de versão com Git**
-- **Debugging e resolução de problemas**
+- **EstruturaÃ§Ã£o de projetos WPF**
+- **OrganizaÃ§Ã£o de cÃ³digo C#**
+- **PadrÃµes de design em aplicaÃ§Ãµes desktop**
+- **Controle de versÃ£o com Git**
+- **Debugging e resoluÃ§Ã£o de problemas**
 
-## 📊 Estatísticas
+## ðŸ“Š EstatÃ­sticas
 
-- **Capítulos Concluídos:** 1
+- **CapÃ­tulos ConcluÃ­dos:** 1
 - **Projetos Criados:** 1
 - **Conceitos Aprendidos:** 10+
 - **Bugs Resolvidos:** 2
 
 ---
 
-**Última Atualização:** Março 2026  
+**Ãšltima AtualizaÃ§Ã£o:** MarÃ§o 2026  
 **Desenvolvedor:** [STDante-0101](https://github.com/STDante-0101)
